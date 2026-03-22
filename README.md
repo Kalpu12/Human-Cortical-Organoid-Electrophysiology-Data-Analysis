@@ -12,16 +12,16 @@ Across:
 Different brain regions
 Young vs. old organoids
 Multiple experimental conditions
-📁 Repository Structure
-├── data/
-│   ├── excel spreadsheets respectively 
+📁 Repository Structure/n
+├── data//n
+│   ├── excel spreadsheets respectively/n
 │
-├── notebooks/
-│   ├── old_organoid_analysis.ipynb
-│   └── young_organoid_analysis.ipynb
+├── notebooks//n
+│   ├── old_organoid_analysis.ipynb/n
+│   └── young_organoid_analysis.ipynb/n
 │
-├── requirements.txt
-└── README.md
+├── requirements.txt/n
+└── README.md/n
 📊 Data Description
 
 The dataset includes:
