@@ -55,12 +55,3 @@ Install dependencies with:
 pip install -r requirements.txt
 📄 requirements.txt
 
-Create a file named requirements.txt in the root directory:
-
-pandas>=1.5.0
-numpy>=1.23.0
-matplotlib>=3.6.0
-seaborn>=0.12.0
-scipy>=1.9.0
-jupyter>=1.0.0
-openpyxl>=3.0.10
